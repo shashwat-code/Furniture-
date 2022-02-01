@@ -1,6 +1,7 @@
 # Furniture ! 🛋
 
 > An online platform to buy furnitures for home, offices with beautiful UI. It lets user to choose different furniture and can search for different furniture using search bar.
+- **Implemented just UI**
 
 ##
 ## Language Used:
